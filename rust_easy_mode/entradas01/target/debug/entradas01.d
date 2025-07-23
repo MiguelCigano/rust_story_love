@@ -1,0 +1,1 @@
+/home/jmiguel-nitro/Documents/rust/rust_long_story_love/RustToEveryone/entradas01/target/debug/entradas01: /home/jmiguel-nitro/Documents/rust/rust_long_story_love/RustToEveryone/entradas01/src/main.rs

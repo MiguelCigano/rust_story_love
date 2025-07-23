@@ -1,0 +1,1 @@
+/home/jmiguel-nitro/Documents/rust/rust_long_story_love/RustToEveryone/enemy_lifetime/target/debug/enemy_lifetime: /home/jmiguel-nitro/Documents/rust/rust_long_story_love/RustToEveryone/enemy_lifetime/src/main.rs

@@ -1,0 +1,1 @@
+/home/jmiguel-nitro/Documents/rust/rust_long_story_love/RustToEveryone/fn_arrays01/target/debug/fn_arrays01: /home/jmiguel-nitro/Documents/rust/rust_long_story_love/RustToEveryone/fn_arrays01/src/main.rs
