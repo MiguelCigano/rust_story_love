@@ -1,0 +1,1 @@
+/home/jmiguel-nitro/Documents/rust/rust_long_story_love/rust_easy_mode/concurrency02/target/debug/concurrency_paral: /home/jmiguel-nitro/Documents/rust/rust_long_story_love/rust_easy_mode/concurrency02/src/main.rs

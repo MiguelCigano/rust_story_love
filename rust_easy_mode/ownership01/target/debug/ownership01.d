@@ -1,0 +1,1 @@
+/home/jmiguel-nitro/Documents/rust/rust_long_story_love/rust_easy_mode/ownership01/target/debug/ownership01: /home/jmiguel-nitro/Documents/rust/rust_long_story_love/rust_easy_mode/ownership01/src/main.rs
