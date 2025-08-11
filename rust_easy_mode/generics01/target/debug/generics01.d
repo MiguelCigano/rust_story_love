@@ -1,0 +1,1 @@
+/home/jmiguel-nitro/Documents/rust/rust_long_story_love/rust_easy_mode/generics01/target/debug/generics01: /home/jmiguel-nitro/Documents/rust/rust_long_story_love/rust_easy_mode/generics01/src/main.rs
